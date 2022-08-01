@@ -1,8 +1,8 @@
 ## Olá! Eu sou o Jean Carlos, estudante de programação 
 
 
-- 🔭 Estudante de Front-End 
-- 🌱 Me aperfeiçoando em JavaScript e suas tecnologias 
+- 🔭 Desenvolvedor Back-end
+- 🌱 Me aperfeiçoando em Python e suas tecnologias 
 
 <div align="center">
   <a href="https://github.com/Jeannx">
